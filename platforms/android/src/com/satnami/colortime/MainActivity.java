@@ -17,7 +17,7 @@
        under the License.
  */
 
-package com.ionicframework.colortime711454;
+package com.satnami.colortime;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
